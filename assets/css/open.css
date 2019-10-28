@@ -17,7 +17,7 @@ body {
 }
 
 .text {
-    display: flex;
+    display: relative;
     justify-content: center;
     align-items: center;
     height: 100%;
