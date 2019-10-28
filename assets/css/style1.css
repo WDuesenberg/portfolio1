@@ -80,8 +80,8 @@ p {
     color: #e6e6e6
 }
 
-img {
-    height: ;
+.carousel-item {
+    height: fit-content;
 
 }
 
