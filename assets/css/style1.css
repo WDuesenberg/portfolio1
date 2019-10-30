@@ -13,12 +13,13 @@ header {
 
 .jumbotron {
     background-color: #262626;
-    height: 20%;
+    /* height: 20%; */
 }
 
 #logo {
     font-family: 'Roboto', Arial, sans-serif;
-    font-size: calc(8px + 5vw);
+    font-size: calc(6px + 4vw);
+    text-align: initial;
     font-weight: 700;
     line-height: 1.2;
     letter-spacing: 0.12em;
@@ -40,7 +41,7 @@ header {
 
 #job {
     font-family: monospace;
-    font-size: 30px;
+    font-size: calc(3px + 2vw);
     color: #aaff80;
     -webkit-transition:all 1.2s ease-out;
     -moz-transition:all 1.2s ease-out;
