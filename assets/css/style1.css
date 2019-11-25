@@ -9,6 +9,7 @@ header {
 #masthead {
     background-image: url("../images/dareal_code.jpeg");
     background-repeat: auto;
+    margin-top: 15px;
 }
 
 .jumbotron {
@@ -24,11 +25,11 @@ header {
     letter-spacing: 0.12em;
     text-transform: uppercase;
     color: #e6e6e6;
-        -webkit-transition:all 2.8s ease-out;
-        -moz-transition:all 2.8s ease-out;
-        -ms-transition:all 2.8s ease-out;
-        -o-transition:all 2.8s ease-out;
-        transition:all 2.8s ease-out;
+        -webkit-transition:all 3.2s ease-out;
+        -moz-transition:all 3.2s ease-out;
+        -ms-transition:all 3.2s ease-out;
+        -o-transition:all 3.2s ease-out;
+        transition:all 3.2s ease-out;
 }
 #logo:hover {
         -webkit-transform:rotateY(360deg);
@@ -42,11 +43,11 @@ header {
     font-family: monospace;
     font-size: calc(3px + 2vw);
     color: #aaff80;
-    -webkit-transition:all 1.2s ease-out;
-    -moz-transition:all 1.2s ease-out;
-    -ms-transition:all 1.2s ease-out;
-    -o-transition:all 1.2s ease-out;
-    transition:all 1.2s ease-out;
+    -webkit-transition:all 1.8s ease-out;
+    -moz-transition:all 1.8s ease-out;
+    -ms-transition:all 1.8s ease-out;
+    -o-transition:all 1.8s ease-out;
+    transition:all 1.8s ease-out;
 }
 #job:hover {
     -webkit-transform:rotateY(360deg);
@@ -95,12 +96,14 @@ p {
 
 #copyright {
     text-align: center;
-    font-family: monospace;
+    font-size: calc(2.5px + 1.5vw);
+    font-family: 'Roboto', Arial, sans-serif;
     color: #aaff80;
 }    
   
 #copyright2 {
     text-align: center;
+    font-size: calc(1.8px + 0.8vw);
     font-family: monospace;
     color: #e6e6e6
 }

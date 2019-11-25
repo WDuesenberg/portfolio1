@@ -35,6 +35,16 @@ body {
     animation: fadeInText 3s 2s ease-out forwards;
 }
 
+button {
+    background-color: chartreuse;
+    border: whitesmoke;
+    color: whitesmoke;
+    padding: 15px 25px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+}
+
 @keyframes scaleImage {
     100% {
         transform: scale(1); 
