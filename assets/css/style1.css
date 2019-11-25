@@ -13,7 +13,6 @@ header {
 
 .jumbotron {
     background-color: #262626;
-    /* height: 20%; */
 }
 
 #logo {
@@ -86,6 +85,13 @@ p {
     height: fit-content;
 
 }
+
+#jumbo2 {
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+
 
 #copyright {
     text-align: center;
