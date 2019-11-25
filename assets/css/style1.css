@@ -7,13 +7,14 @@ header {
 }
 
 #masthead {
-    background-image: url("../images/dareal_code.jpeg");
+    background-image: url("../images/code27.jpg");
     background-repeat: auto;
     margin-top: 15px;
 }
 
 .jumbotron {
     background-color: #262626;
+    align-content: center;
 }
 
 #logo {
@@ -88,7 +89,7 @@ p {
 }
 
 #jumbo2 {
-    margin-top: 25px;
+    margin-top: 15px;
     margin-bottom: 10px;
 }
 
