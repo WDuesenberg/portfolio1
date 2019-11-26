@@ -58,14 +58,17 @@ img {
 
 #card1 {
     background-color: #262626;
+    box-shadow: 0 4px 8px 0 rgba(155, 255, 56, 0), 0 6px 20px 0 rgba(87, 255, 87, 0.19);
 }
 
 #card2 {
     background-color: #262626;
+    box-shadow: 0 4px 8px 0 rgba(155, 255, 56, 0), 0 6px 20px 0 rgba(87, 255, 87, 0.19);
 }
 
 #card3 {
     background-color: #262626;
+    box-shadow: 0 4px 8px 0 rgba(155, 255, 56, 0), 0 6px 20px 0 rgba(87, 255, 87, 0.19);
 }
 
 .card-title {
@@ -86,6 +89,12 @@ p {
 
 }
 
+.carousel-control-prev,
+.carousel-control-next {
+    align-items: baseline;
+    bottom: 10%;
+}
+
 #jumbo2 {
     margin-top: 15px;
     margin-bottom: 10px;
@@ -102,7 +111,7 @@ p {
   
 #copyright2 {
     text-align: center;
-    font-size: calc(1.8px + 0.8vw);
+    font-size: calc(1.8px + 1.1vw);
     font-family: monospace;
     color: #e6e6e6
 }
