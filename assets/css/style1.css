@@ -58,17 +58,17 @@ img {
 
 #card1 {
     background-color: #262626;
-    box-shadow: 0 4px 8px 0 rgba(155, 255, 56, 0), 0 6px 20px 0 rgba(87, 255, 87, 0.19);
+    box-shadow: 0 4px 8px 0 rgba(253, 253, 253, 0), 0 6px 20px 0 rgba(243, 255, 243, 0.19);
 }
 
 #card2 {
     background-color: #262626;
-    box-shadow: 0 4px 8px 0 rgba(155, 255, 56, 0), 0 6px 20px 0 rgba(87, 255, 87, 0.19);
+    box-shadow: 0 4px 8px 0 rgba(253, 253, 253, 0), 0 6px 20px 0 rgba(243, 255, 243, 0.19);
 }
 
 #card3 {
     background-color: #262626;
-    box-shadow: 0 4px 8px 0 rgba(155, 255, 56, 0), 0 6px 20px 0 rgba(87, 255, 87, 0.19);
+    box-shadow: 0 4px 8px 0 rgba(253, 253, 253, 0), 0 6px 20px 0 rgba(243, 255, 243, 0.19);
 }
 
 .card-title {
@@ -93,6 +93,7 @@ p {
 .carousel-control-next {
     align-items: baseline;
     bottom: 10%;
+    color: #aaff80;
 }
 
 #jumbo2 {
