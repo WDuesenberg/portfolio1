@@ -40,6 +40,7 @@ button {
     margin-top: 10%;
     border-radius: 25px;    
     cursor: pointer;
+    opacity: 100;
 }
 
 .button {
@@ -49,7 +50,7 @@ button {
     color: whitesmoke;
     padding: 8px 12px;
     text-align: center;
-    font-size: 24px;
+    font-size: 30px;
 }
 
 @keyframes scaleImage {
