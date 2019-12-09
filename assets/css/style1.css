@@ -1,8 +1,9 @@
 
 #masthead {
-    background-image: url("../images/code27.jpg");
+    background-image: url("../images/code-bkgrnd2.jpg");
     background-repeat: auto;
     margin-top: 15px;
+    object-fit: cover;
 }
 
 .jumbotron {

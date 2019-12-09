@@ -12,7 +12,7 @@ body {
     height: 100%;
     object-fit: cover;
     z-index: -1;
-    transform: scale(2.0); /* (1.8) */
+    transform: scale(1.8); /* (2.0) */
     animation: scaleImage 5s ease-out forwards;
 }
 
@@ -39,6 +39,7 @@ button {
     position: absolute;
     bottom: 35%;
     background-color: chartreuse;
+    border-radius: 25px;
     border: whitesmoke;
     color: whitesmoke;
     padding: 15px 25px;
