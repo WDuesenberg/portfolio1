@@ -78,6 +78,7 @@ img {
 #card1 {
     background-color: #262626;
     box-shadow: 0 4px 8px 0 rgba(253, 253, 253, 0), 0 6px 20px 0 rgba(243, 255, 243, 0.19);
+    /* border-radius: 15px; */
 }
 
 #card2 {

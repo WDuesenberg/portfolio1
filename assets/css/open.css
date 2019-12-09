@@ -37,7 +37,8 @@ body {
 
 button {
     position: absolute;
-    bottom: 35%;
+    margin-top: 10%;
+    /* bottom: calc(30px + 16vw); */
     background-color: chartreuse;
     border-radius: 25px;
     border: whitesmoke;
