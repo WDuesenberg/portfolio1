@@ -13,7 +13,7 @@ body {
     object-fit: cover;
     z-index: -1;
     transform: scale(1.8); /* (2.0) */
-    animation: scaleImage 5s ease-out forwards;
+    animation: scaleImage 4s ease-out forwards;
 }
 
 .text {
@@ -38,15 +38,18 @@ body {
 button {
     position: absolute;
     margin-top: 10%;
-    /* bottom: calc(30px + 16vw); */
+    border-radius: 25px;    
+    cursor: pointer;
+}
+
+.button {
     background-color: chartreuse;
-    border-radius: 25px;
+    font-family: 'Roboto', Arial, sans-serif;
     border: whitesmoke;
     color: whitesmoke;
-    padding: 15px 25px;
+    padding: 8px 12px;
     text-align: center;
-    font-size: 16px;
-    cursor: pointer;
+    font-size: 24px;
 }
 
 @keyframes scaleImage {
