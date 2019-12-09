@@ -36,6 +36,8 @@ body {
 }
 
 button {
+    position: absolute;
+    bottom: 35%;
     background-color: chartreuse;
     border: whitesmoke;
     color: whitesmoke;
