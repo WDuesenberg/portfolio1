@@ -35,24 +35,6 @@ body {
     animation: fadeInText 3s 2s ease-out forwards;
 }
 
-button {
-    position: absolute;
-    margin-top: 10%;
-    border-radius: 25px;    
-    cursor: pointer;
-    opacity: 100;
-}
-
-.button {
-    background-color: chartreuse;
-    font-family: 'Roboto', Arial, sans-serif;
-    border: whitesmoke;
-    color: whitesmoke;
-    padding: 8px 12px;
-    text-align: center;
-    font-size: 30px;
-}
-
 @keyframes scaleImage {
     100% {
         transform: scale(1); 
