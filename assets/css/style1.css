@@ -11,8 +11,8 @@
 }
 
 #logo {
-    font-family: 'Roboto', Arial, sans-serif;
-    font-size: calc(6px + 4vw);
+    font-family: 'Pacifico', cursive;
+    font-size: calc(6px + 6vw);
     text-align: initial;
     font-weight: 700;
     line-height: 1.2;
@@ -52,8 +52,8 @@
 }
 
 #job {
-    font-family: monospace;
-    font-size: calc(3px + 2vw);
+    font-family: 'Permanent Marker', cursive;
+    font-size: calc(3px + 3vw);
     color: #aaff80;
     -webkit-transition:all 1.8s ease-out;
     -moz-transition:all 1.8s ease-out;
@@ -78,7 +78,6 @@ img {
 #card1 {
     background-color: #262626;
     box-shadow: 0 4px 8px 0 rgba(253, 253, 253, 0), 0 6px 20px 0 rgba(243, 255, 243, 0.19);
-    /* border-radius: 15px; */
 }
 
 #card2 {
@@ -93,14 +92,14 @@ img {
 
 .card-title {
     text-align: center;
-    font-family: monospace;
-    font-size: x-large;
+    font-family: 'Permanent Marker', cursive;
+    font-size: calc(1.5vh + 1.5vw);
     color: #aaff80
 }
 
 p {
-    font-family: monospace;
-    font-size: medium;
+    font-family: 'Lobster', cursive;
+    font-size: calc(1.1vh + 1.1vw);
     color: #e6e6e6
 }
 
@@ -125,14 +124,14 @@ p {
 
 #copyright {
     text-align: center;
-    font-size: calc(2.5px + 1.5vw);
-    font-family: 'Roboto', Arial, sans-serif;
+    font-size: calc(3.5px + 2.5vw);
+    font-family: 'Pacifico', cursive;
     color: #aaff80;
 }    
   
 #copyright2 {
     text-align: center;
-    font-size: calc(1.8px + 1.1vw);
-    font-family: monospace;
+    font-size: calc(1.8px + 1.4vw);
+    font-family: 'Oleo Script', cursive;
     color: #e6e6e6
 }
