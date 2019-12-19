@@ -115,6 +115,13 @@ p {
     color: #aaff80;
 }
 
+.list-group-item {
+    background-color: #333;
+    text-align: center;
+    font-family: 'Oleo Script', cursive;
+    color: #aaff80;
+}
+
 #jumbo2 {
     margin-top: 25px;
     margin-bottom: 20px;
