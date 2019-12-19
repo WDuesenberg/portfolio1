@@ -119,6 +119,7 @@ p {
     background-color: #333;
     text-align: center;
     font-family: 'Oleo Script', cursive;
+    font-size: calc(1vh + 1vw);
     color: #aaff80;
 }
 
