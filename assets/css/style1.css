@@ -54,7 +54,7 @@
 #job {
     font-family: 'Permanent Marker', cursive;
     font-size: calc(3px + 3vw);
-    color: #e6e6e6;
+    color: #f83bf8;
     -webkit-transition:all 1.8s ease-out;
     -moz-transition:all 1.8s ease-out;
     -ms-transition:all 1.8s ease-out;
@@ -83,7 +83,7 @@ img {
 
 #card2 {
     background-color: #262626;
-    box-shadow: 0 6px 10px 0 rgba(46, 177, 20, 0), 0 10px 20px 0 rgba(4, 247, 4, 0.19);
+    box-shadow: 0 6px 10px 0 rgba(20, 172, 177, 0), 0 10px 20px 0 rgba(10, 255, 235, 0.19);
 }
 
 #card3 {
@@ -95,7 +95,7 @@ img {
     text-align: center;
     font-family: 'Permanent Marker', cursive;
     font-size: calc(1.5vh + 1.5vw);
-    color: #3ff1e3
+    color: #eccb35
 }
 
 p {
