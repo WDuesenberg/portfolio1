@@ -99,7 +99,7 @@ img {
 
 p {
     font-family: 'Lobster', cursive;
-    font-size: calc(1.1vh + 1.1vw);
+    font-size: calc(1vh + 1vw);
     color: #e6e6e6
 }
 
@@ -119,8 +119,8 @@ p {
     background-color: #333;
     text-align: center;
     font-family: 'Oleo Script', cursive;
-    font-size: calc(.5vh + .5vw);
-    color: #aaff80;
+    font-size: calc(1vh + 1vw);
+    color: #e6e6e6;
 }
 
 #jumbo2 {
