@@ -1,13 +1,14 @@
 
 #masthead {
-    background-image: url("../images/405857-cool-coding-wallpaper-1920x1088-samsung-galaxy.jpg");
+    background-color: #333;
     background-repeat: auto;
     margin-top: 15px;
     object-fit: cover;
 }
 
 .jumbotron {
-    background-color: #333;
+    background-image: url("../images/green-matrix-code-1920x1080-wallpaper.jpg");
+    margin-top: -20px;
 }
 
 #logo {
@@ -127,7 +128,7 @@ p {
 
 #jumbo2 {
     margin-top: 25px;
-    margin-bottom: 20px;
+    margin-bottom: -20px;
 }
 
 
