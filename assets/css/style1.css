@@ -99,6 +99,22 @@ img {
     color: #eccb35
 }
 
+button {
+    text-align: left;
+    font-family: 'Permanent Marker', cursive;
+    color: #eccb35;
+    margin: 10px 2px 10px 2px;
+}
+
+.dropdown-menu {
+    background-color: black;
+}
+
+.dropdown-item {
+    font-family: 'Permanent Marker', cursive;
+    color: #3ff1e3;
+}
+
 p {
     font-family: 'Lobster', cursive;
     font-size: calc(.9vh + .9vw);
