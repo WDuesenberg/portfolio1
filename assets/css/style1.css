@@ -127,12 +127,12 @@ p {
 
 }
 
-.carousel-control-prev,
+/* .carousel-control-prev,
 .carousel-control-next {
     align-items: baseline;
     bottom: 50%;
     color: #aaff80;
-}
+} */
 
 .list-group-item {
     background-color: #333;
